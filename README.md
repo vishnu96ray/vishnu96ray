@@ -52,7 +52,7 @@
 **🏗️ [Blog](https://github.com/vishnu96ray/blog_test)** -Blog Management Solution
 ```python
 // Powering modern finance management
-🔹 Python Django html and css
+🔹 Python, Django, html, css, BootScrap and javaScript
 🔹 PostgreSQL for DB connection
 🔹 RESTful API that scales like crazy
 🔹 🌐 Live at: https://github.com/vishnu96ray/blog_test
