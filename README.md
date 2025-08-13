@@ -13,11 +13,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%7C+Rust+Enthusiast;Go+Backend+Specialist+%7C+FinTech+Builder;Desktop+Apps+with+Tauri+%7C+Hardware+Hacker;Building+the+Future%2C+One+Commit+at+a+Time!;Visit+iamdhakrey.dev+for+More!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%7C+Rust+Enthusiast;Go+Backend+Specialist+%7C+FinTech+Builder;Desktop+Apps+with+Tauri+%7C+Hardware+Hacker;Building+the+Future%2C+One+Commit+at+a+Time!;Visit+vishnu96ray.github.io+for+More!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🚀+Currently+building+SpendLite+ecosystem;💰+Making+finance+management+enjoyable;🌐+Powering+iamdhakrey.dev+with+terminal-portfolio;🦀+Rust+%2B+Go+%2B+TypeScript+%2B+Python;🤖+Building+rustycord+Discord+library" alt="Secondary Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🚀+Currently+building+SpendLite+ecosystem;💰+Making+finance+management+enjoyable;🌐+Powering+vishnu96ray.github.io+with+terminal-portfolio;🦀+Rust+%2B+Go+%2B+TypeScript+%2B+Python;🤖+Building+rustycord+Discord+library" alt="Secondary Typing SVG" />
 </div>
 
 ---
