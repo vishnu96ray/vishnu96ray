@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Portfolio-vishnu96ray.github.io-FF6B6B?style=for-the-badge)](https://vishnu96ray.github.io)
-[![GitHub followers](https://img.shields.io/github/followers/iamdhakrey?label=🤝_Follow_Me&style=for-the-badge&color=4ECDC4)](https://github.com/iamdhakrey)
-[![Profile Views](https://komarev.com/ghpvc/?username=iamdhakrey&color=45B7D1&style=for-the-badge&label=👀_Profile_Views)](https://github.com/iamdhakrey)
+[![GitHub followers](https://img.shields.io/github/followers/vishnu96ray?label=🤝_Follow_Me&style=for-the-badge&color=4ECDC4)](https://github.com/vishnu96ray)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishnu96ray&color=45B7D1&style=for-the-badge&label=👀_Profile_Views)](https://github.com/vishnu96ray)
 
 
 
