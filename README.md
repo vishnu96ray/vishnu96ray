@@ -32,7 +32,8 @@
 // Where coding meets creativity!
 🔹 Fully configurable Api
 🔹 Python + Fastapi for modern development
-🔹 A modern job portal application built with FastAPI and Python, providing a comprehensive platform for job seekers and employers to connect.
+🔹 A modern job portal application built.
+🔹 Job seekers and employers to connect.
 🔹 🌐 Live at: vishnu96ray.github.io
 ```
 
