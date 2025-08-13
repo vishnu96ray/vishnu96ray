@@ -191,7 +191,7 @@
 
 ### 🔥 Recent Activity & Achievements
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdhakrey&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu96ray&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -206,8 +206,8 @@
 </div>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamdhakrey&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=4ECDC4&text_color=C9D1D9" alt="Dhakrey's GitHub Stats" />
-  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamdhakrey&exclude_repo=Python,kernel_xioami_zizuhu_ysl,kernel_xiaomi_cannon,pycord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishnu96ray&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=4ECDC4&text_color=C9D1D9" alt="Vishnu's GitHub Stats" />
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishnu96ray&exclude_repo=Python,kernel_xioami_zizuhu_ysl,kernel_xiaomi_cannon,pycord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -215,7 +215,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdhakrey&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=4ECDC4&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu96ray&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=4ECDC4&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -223,7 +223,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamdhakrey&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vishnu96ray&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -276,14 +276,8 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/iamdhakrey">
+  <a href="https://www.linkedin.com/in/vishnu-kant-ray-305376151/">
     <img src="https://img.shields.io/badge/LinkedIn-💼_Let's_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/iamdhakrey">
-    <img src="https://img.shields.io/badge/Telegram-💬_Quick_Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/iamdhakrey">
-    <img src="https://img.shields.io/badge/Instagram-📸_Behind_Scenes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://vishnu96ray.github.io">
     <img src="https://img.shields.io/badge/Website-🌐_Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" />
@@ -319,7 +313,7 @@
 </div>
 
 ```typescript
-const dhakrey = {
+const Vishnu = {
     pronouns: "he/him",
     location: "🌍 Building globally, hosted on vishnu96ray.github.io",
     code: ["Go", "Python"],
