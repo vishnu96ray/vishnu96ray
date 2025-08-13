@@ -132,7 +132,6 @@
 <div align="center">
 
 ```text
-🦀 Rust         ████████████████████████████████████████ 90%
 🐹 Go           ████████████████████████████████████████ 85%
 🐍 Python       ████████████████████████████████████████ 80%
 ⚡ TypeScript   ████████████████████████████████████████ 88%
@@ -323,20 +322,15 @@
 const dhakrey = {
     pronouns: "he/him",
     location: "🌍 Building globally, hosted on vishnu96ray.github.io",
-    code: ["Go","Python"],
-    askMeAbout: ["FinTech", "Desktop Apps", "Hardware Integration", "Discord Bots", "Terminal UIs"],
+    code: ["Go", "Python"],
+    askMeAbout: ["Blog", "Job Portal", "CRM", "E-Shopping", "Terminal UIs"],
     technologies: {
-        backend: ["Go + Echo", "Python", "PostgreSQL"],
-        frontend: ["React", "TypeScript", "Tauri"],
+        backend: ["Go + "Python", "PostgreSQL"],
+        frontend:  "Django", "FastAPI"],
         devOps: ["Docker", "GitHub Actions", "Linux"],
         databases: ["PostgreSQL", "SQLite"],
-        hardware: ["libgphoto2", "Camera Control", "Printer Integration"],
         deployment: ["vishnu96ray.github.io infrastructure", "CI/CD pipelines"]
-    },
-    currentFocus: "Building terminal-portfolio & ecosystem 🌐🤖",
-    funFact: "I make computers talk to cameras, printers, and Discord! 📸🖨️💬",
-    websiteStatus: "🟢 vishnu96ray.github.io - Always online!",
-    motto: "Code is poetry, and I'm writing symphonies! 🎵"
+    }
 };
 ```
 
