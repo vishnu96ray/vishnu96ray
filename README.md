@@ -26,14 +26,13 @@
 
 > *"Code is poetry, and I'm writing symphonies in Go, Python, and TypeScript"* 🎵
 
-### 🌐 **Terminal Portfolio** - Modern Developer Experience
-**[Terminal Portfolio](https://github.com/iamdhakrey/terminal-portfolio)** - Terminal-style portfolio website that powers vishnu96ray.github.io
+### 🌐 **Job Portal** - Modern Developer Experience
+**[Terminal Portfolio](https://github.com/vishnu96ray/job-portal)** - Terminal-style portfolio website that powers vishnu96ray.github.io
 ```typescript
 // Where coding meets creativity!
-🔹 Fully configurable through single config file
-🔹 React + TypeScript for modern development
-🔹 Terminal-style interface for unique experience
-🔹 Perfect template for developers
+🔹 Fully configurable Api
+🔹 Python + Fastapi for modern development
+🔹 A modern job portal application built with FastAPI and Python, providing a comprehensive platform for job seekers and employers to connect.
 🔹 🌐 Live at: vishnu96ray.github.io
 ```
 
