@@ -38,7 +38,7 @@
 ```
 
 
-### 💰 **SpendLite** - Personal Finance Revolution
+### 💰 **Blog** - Content Management Solution for bloggers.
 <div align="left">
   <img src="https://img.shields.io/badge/🚀_Status-Live_&_Deployed-00D4AA?style=flat-square" />
   <img src="https://img.shields.io/badge/⭐_Users-Growing_Fast-FFD93D?style=flat-square" />
@@ -49,13 +49,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=🏦+Revolutionizing+personal+finance;💳+Secure+transaction+management;📊+Real-time+expense+tracking;🔄+Live+at+spendlite.vishnu96ray.github.io" alt="SpendLite Features" />
 </div>
 
-**🏗️ [spendlite-api](https://github.com/iamdhakrey/spendlite-api)** - The Financial Engine
-```go
+**🏗️ [Blog](https://github.com/vishnu96ray/blog_test)** -Blog Management Solution
+```python
 // Powering modern finance management
-🔹 Go + Echo framework magic
-🔹 PostgreSQL with advanced licensing
+🔹 Python Django html and css
+🔹 PostgreSQL for DB connection
 🔹 RESTful API that scales like crazy
-🔹 🌐 Live at: api.spendlite.vishnu96ray.github.io
+🔹 🌐 Live at: https://github.com/vishnu96ray/blog_test
 ```
 
 **🖥️ [spendlite-desktop](https://github.com/iamdhakrey/spendlite)** - Cross-Platform Beauty
