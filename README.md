@@ -31,8 +31,8 @@
 ```typescript
 // Where coding meets creativity!
 🔹 Fully configurable Api
-🔹 Python + Fastapi for modern development
-🔹 A modern job portal application built.
+🔹 Python + FastAPI for modern development
+🔹 A modern job portal application has been built.
 🔹 Job seekers and employers to connect.
 🔹 🌐 Live at: vishnu96ray.github.io
 ```
@@ -57,6 +57,15 @@
 🔹 RESTful API that scales like crazy
 🔹 🌐 Live at: https://github.com/vishnu96ray/blog_test
 ```
+
+**🏗️ [Doctors](https://github.com/vishnu96ray/doctors)** -Doctor Appointment & Information System
+```python
+// Powering modern finance management
+🔹 Python, Django, html, css, Bootstrap and javaScript
+🔹 PostgreSQL for DB connection
+🔹 RESTful API that scales like crazy
+🔹 🌐 Live at: https://github.com/vishnu96ray/blog_test
+```'
 
 ## 🛠️ **My Arsenal of Technologies**
 
