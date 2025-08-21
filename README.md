@@ -71,7 +71,7 @@
 🔹 🌐 Live at: https://github.com/vishnu96ray/blog_test
 ```
 
-### 🛒 **E-Commerce** -e-commerce web application.
+### 🛒 **E-Commerce** web application.
 <div align="left">
   <img src="https://img.shields.io/badge/🚀_Status-Live_&_Deployed-00D4AA?style=flat-square" />
   <img src="https://img.shields.io/badge/⭐_Users-Growing_Fast-FFD93D?style=flat-square" />
