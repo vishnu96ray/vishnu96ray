@@ -52,60 +52,11 @@
 **🏗️ [Blog](https://github.com/vishnu96ray/blog_test)** -Blog Management Solution
 ```python
 // Powering modern finance management
-🔹 Python, Django, html, css, BootScrap and javaScript
+🔹 Python, Django, html, css, Bootstrap and javaScript
 🔹 PostgreSQL for DB connection
 🔹 RESTful API that scales like crazy
 🔹 🌐 Live at: https://github.com/vishnu96ray/blog_test
 ```
-
-**🖥️ [spendlite-desktop](https://github.com/iamdhakrey/spendlite)** - Cross-Platform Beauty
-```typescript
-// Desktop app that users actually love
-🔹 Tauri + React + TypeScript trinity
-🔹 Lightning-fast native performance
-🔹 Bank-level security & authentication
-🔹 🌐 Try it: spendlite.vishnu96ray.github.iov
-```
-
-### 📸 **PhotoBooth** - Hardware Meets Software
-<div align="left">
-  <img src="https://img.shields.io/badge/⚡_Performance-Rust_Powered-CE422B?style=flat-square" />
-  <img src="https://img.shields.io/badge/📷_Integration-libgphoto2-9146FF?style=flat-square" />
-</div>
-
-**[PhotoBooth](https://github.com/iamdhakrey/PhotoBooth)** - Professional automation system
-```rust
-// When Rust meets professional photography
-🔹 Camera control through libgphoto2
-🔹 DNP printer integration
-🔹 Event automation that just works
-🔹 Zero-latency photo processing
-```
-
-### 🤖 **Rustycord** - Discord Bot Library
-<div align="left">
-  <img src="https://img.shields.io/badge/🦀_Language-Rust-CE422B?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌐_Website-rustycord.vishnu96ray.github.io-A855F7?style=flat-square" />
-</div>
-
-**[Rustycord](https://github.com/iamdhakrey/rustycord)** - Fast, lightweight Discord bot library
-```rust
-// Discord development, reimagined in Rust
-🔹 High-performance Discord API wrapper
-🔹 Feature-rich and developer-friendly
-🔹 Built for speed and reliability
-🔹 🌐 Docs at:vishnu96ray.github.io
-```
-
-### 🦀 **The Rust Collection** - System Programming Mastery
-```rust
-// Building the future with memory safety
-🔹 rustycord    → Discord bot library, blazingly fast
-🔹 compress     → File compression, blazingly fast
-🔹 rust-test-api → Testing frameworks done right
-```
-
----
 
 ## 🛠️ **My Arsenal of Technologies**
 
