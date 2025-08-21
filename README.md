@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/🌐_Visit-vishnu96ray.github.io-A855F7?style=flat-square" />
 </div>
 
-**🛒 [E-commerce](https://github.com/vishnu96ray/mg_one)** - E-Commerce Applications
+**🛒 [E-commerce](https://github.com/vishnu96ray/mg_one)** modules for SMS, payments, stock management, and more.
 ```python
 // Powering modern finance management
 🔹 Python, Django, html, css, Bootstrap and javaScript
