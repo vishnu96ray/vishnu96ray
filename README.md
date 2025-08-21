@@ -75,7 +75,7 @@
 🔹 PostgreSQL for DB connection
 🔹 RESTful API that scales like crazy
 🔹 🌐 Live at: https://github.com/vishnu96ray/blog_test
-```'
+```
 
 ## 🛠️ **My Arsenal of Technologies**
 
