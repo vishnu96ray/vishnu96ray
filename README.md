@@ -57,8 +57,18 @@
 🔹 RESTful API that scales like crazy
 🔹 🌐 Live at: https://github.com/vishnu96ray/blog_test
 ```
+### 💰 **Doctors** - Doctor Appointment & Information System
+<div align="left">
+  <img src="https://img.shields.io/badge/🚀_Status-Live_&_Deployed-00D4AA?style=flat-square" />
+  <img src="https://img.shields.io/badge/⭐_Users-Growing_Fast-FFD93D?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌐_Visit-vishnu96ray.github.io-A855F7?style=flat-square" />
+</div>
 
-**🏗️ [Doctors](https://github.com/vishnu96ray/doctors)** -Doctor Appointment & Information System
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=🏦+Revolutionizing+personal+finance;💳+Secure+transaction+management;📊+Real-time+expense+tracking;🔄+Live+at+spendlite.vishnu96ray.github.io" alt="SpendLite Features" />
+</div>
+
+**🏗️ [Doctors](https://github.com/vishnu96ray/doctors)** - Doctor Appointment & Information System
 ```python
 // Powering modern finance management
 🔹 Python, Django, html, css, Bootstrap and javaScript
