@@ -26,7 +26,7 @@
 
 > *"Code is poetry, and I'm writing symphonies in Go, Python, and TypeScript"* 🎵
 
-### 🌐 **Job Portal** - Modern Developer Experience
+### 💼 **Job Portal** - Modern Developer Experience
 **[job-portal](https://github.com/vishnu96ray/job-portal)** - Job Portal powers vishnu96ray.github.io
 ```typescript
 // Where coding meets creativity!
