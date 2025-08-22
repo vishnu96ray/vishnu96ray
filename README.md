@@ -338,7 +338,10 @@ const Vishnu = {
 <h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
 
 <br>
-
+<tr>
+        <td  colspan="2" align="center"> 
+		<br>
+	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu96ray/vishnu96ray/output/github-contribution-grid-snake-dark.svg" />
