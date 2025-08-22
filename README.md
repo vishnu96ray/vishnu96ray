@@ -339,42 +339,10 @@ const Vishnu = {
 
 <br>
 
-<markdown-accessiblity-table data-catalyst="">
-  <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
-    <thead>
-	    <tr>
-		  <th colspan="2" align="center">
-			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
-		  </th>
-		</tr>
-      <tr>
-        <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnu96ray&theme=github_dark">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnu96ray&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
-          </a>
-        </th>
-        <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=vishnu96ray&show_icons=true&locale=en">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnu96ray&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
-          </a>
-        </th>
-      </tr>
-    </thead>
-	   <tr>
-        <td  colspan="2" align="center"> 
-		<br>
-	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-		
-<picture>
-  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu96rayvishnu96ray/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnu96ray/vishnu96ray/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vishnu96ray/vishnu96ray/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-	</td>
-	</tr>
-  </table>
-  
-</markdown-accessiblity-table>
-</div>
-
-<img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu96ray/vishnu96ray/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnu96ray/vishnu96ray/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/vishnu96ray/vishnu96ray/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
