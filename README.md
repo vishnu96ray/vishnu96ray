@@ -7,7 +7,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=vishnu96ray&color=45B7D1&style=for-the-badge&label=👀_Profile_Views)](https://github.com/vishnu96ray)
 
 
-
 ### 🕐 **Live Status Dashboard**
 
 </div>
